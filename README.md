@@ -1,3 +1,4 @@
+![learn JS](https://user-images.githubusercontent.com/75698396/142389597-0f76e060-ed9d-4b65-9517-ce2364cdf1c9.png)
 ### Hi there 👋! My name is Ivan!
 
 <!--
