@@ -8,12 +8,14 @@
 
 
 ### Hi there 👋! My name is Ivan!
-🌱 I’m currently learning JavaScript!
+I’m currently learning JavaScript!
 
 </br>
 </br>
-</br>
 
-🛠 <strong>Tech stack</strong>
+
+### 🛠 Technical Stack
+
+
 
 
