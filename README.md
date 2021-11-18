@@ -1,4 +1,5 @@
-![js--og](https://user-images.githubusercontent.com/75698396/142389765-82e5e138-d297-41d0-9cf4-6866821b8075.jpg)
+![lebedinaya-progulka-371905](https://user-images.githubusercontent.com/75698396/142391960-f1a519e5-7a2c-41da-a792-9c84f1a97d7c.jpg)
+
 
 ### Hi there 👋! My name is Ivan!
 
