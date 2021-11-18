@@ -7,14 +7,16 @@
 </br>
 
 
-### Hi there 👋! My name is Ivan!
-I’m currently learning JavaScript!
-
+ ## Hi there 👋! My name is Ivan!
+ I'm 33 years old. I'm currently learning JavaScript. I want to become WEB developer and to raise my skills to the max level!
+ 😎
+ 
 </br>
 </br>
 
+## 🛠 Technical Stack
 
-### 🛠 Technical Stack
+#### HTML &nbsp; CSS &nbsp; Sass &nbsp; JavaScript &nbsp; Git &nbsp; GitHub &nbsp; Visual Studio Code &nbsp; Sublime Text &nbsp; Photoshop &nbsp; Figma
 
 
 
