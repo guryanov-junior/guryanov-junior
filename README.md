@@ -3,14 +3,17 @@
 
 
 
-
+</br>
+</br>
 
 
 ### Hi there 👋! My name is Ivan!
 🌱 I’m currently learning JavaScript!
-br
-br
-br
-🛠 Tech stack
+
+</br>
+</br>
+</br>
+
+🛠 <strong>Tech stack</strong>
 
 
