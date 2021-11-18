@@ -1,4 +1,5 @@
-![learn JS](https://user-images.githubusercontent.com/75698396/142389597-0f76e060-ed9d-4b65-9517-ce2364cdf1c9.png)
+![js--og](https://user-images.githubusercontent.com/75698396/142389765-82e5e138-d297-41d0-9cf4-6866821b8075.jpg)
+
 ### Hi there 👋! My name is Ivan!
 
 <!--
@@ -9,4 +10,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript!
 
-![js--og](https://user-images.githubusercontent.com/75698396/142389360-76832fa4-3c2f-476f-b4dc-aaedb2662420.jpg)
+
