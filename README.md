@@ -1,4 +1,5 @@
-![krasivye-zakat-i-rassvet-nad-morskoj-gladyu](https://user-images.githubusercontent.com/75698396/142395185-db6cfb84-4582-4f8b-ba36-39c7c2c26fe3.jpg)
+![krasivye-zakat-i-rassvet-nad-morskoj-gladyu](https://user-images.githubusercontent.com/75698396/142398543-c424c7ec-60dc-4f96-86e4-1bfa6780af7e.jpg)
+
 
 
 
