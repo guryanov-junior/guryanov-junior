@@ -16,7 +16,7 @@
 
 ## 🛠 Technical Stack
 
-#### HTML &nbsp; CSS &nbsp; Sass &nbsp; JavaScript &nbsp; React &nbsp; Git &nbsp; GitHub &nbsp; Visual Studio Code &nbsp; Sublime Text &nbsp; Photoshop &nbsp; Figma
+#### HTML &nbsp; CSS &nbsp; SCSS &nbsp; JavaScript &nbsp; React &nbsp; Git &nbsp; GitHub &nbsp; Visual Studio Code &nbsp; Sublime Text &nbsp; Photoshop &nbsp; Figma
 
 
 
