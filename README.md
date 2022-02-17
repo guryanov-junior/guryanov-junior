@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="https://gpvc.arturio.dev/guryanov-junior" alt="Profile views"/>
+![](https://komarev.com/ghpvc/?username=guryanov-junior)
 
 </br>
 
