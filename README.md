@@ -1,5 +1,7 @@
 ![111](https://user-images.githubusercontent.com/75698396/154507286-6c5b1a37-26b6-463b-8958-aba1ac496a3f.jpg)
 
+</br>
+
 <img src="https://gpvc.arturio.dev/guryanov-junior" alt="Profile views"/>
 
 </br>
@@ -40,7 +42,7 @@
  
 </p>
 
----
+
 
 
 
