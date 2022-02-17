@@ -34,7 +34,7 @@
 <p align="center">
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guryanov-junior&show_icons=true&theme=radical&layout=compact&card_width=445" />
- 
+ <p></p>
 <img src="https://github-readme-stats.vercel.app/api?username=guryanov-junior&hide=contribs,prs&show_icons=true&theme=radical" />
  
 </p>
