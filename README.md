@@ -1,4 +1,4 @@
-![111](https://user-images.githubusercontent.com/75698396/154507286-6c5b1a37-26b6-463b-8958-aba1ac496a3f.jpg)
+![111](https://user-images.githubusercontent.com/75698396/156476637-2bd31744-2783-4f48-8540-f0ff4cf0f17d.jpg)
 
 </br>
 
@@ -55,9 +55,5 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ваня-гурьянов-59725421b" target="blank">
 <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></p>
-
-
-
-
 
 
