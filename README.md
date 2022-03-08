@@ -1,4 +1,4 @@
-![my-gif](https://user-images.githubusercontent.com/75698396/156643281-5ee3643e-b6ad-4d99-9ff7-167bda17e63c.gif)
+![front-end-development-minimal-infographic-3584663](https://user-images.githubusercontent.com/75698396/157336169-a84b0e61-f583-45d0-a4e4-83b3683dd99f.jpg)
 
 
 
