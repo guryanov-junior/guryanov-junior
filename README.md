@@ -1,4 +1,4 @@
-![front-end-development-minimal-infographic-3584663](https://user-images.githubusercontent.com/75698396/157336169-a84b0e61-f583-45d0-a4e4-83b3683dd99f.jpg)
+
 
 
 
